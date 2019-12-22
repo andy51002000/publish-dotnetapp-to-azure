@@ -24,6 +24,7 @@ MSBuild需要吃一個Publish Profile才能正常運作, 以下教學將會演�
 1. 需要安裝Visual Studio
 2. 需要在Azure App Service建立Web App服務  
 3. 需要取得佈署帳密(Publish Profile)
+4. 需要安裝Azure Cli
 
 
 ```powershell
